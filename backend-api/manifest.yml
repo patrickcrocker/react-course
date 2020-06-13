@@ -1,0 +1,6 @@
+---
+applications:
+  - name: complexapp-backend
+    memory: 128M
+    disk_quota: 1G
+    path: .
